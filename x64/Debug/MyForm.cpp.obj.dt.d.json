@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\undip\\sem 3\\praktikum\\progdas\\guicpp_kelxx\\guicpp_kelxx\\myform.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\undip\\sem 3\\praktikum\\progdas\\guicpp_kelxx\\guicpp_kelxx\\myform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

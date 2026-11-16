@@ -1,0 +1,4 @@
+D:\UNDIP\SEM 3\PRAKTIKUM\progdas\GUICPP_Kelxx\GUICPP_Kelxx\x64\Debug\GUICPP_Kelxx.vcxproj.AssemblyReference.cache
+D:\UNDIP\SEM 3\PRAKTIKUM\progdas\GUICPP_Kelxx\GUICPP_Kelxx\x64\Debug\GUICPPKelxx.MyForm.resources
+D:\UNDIP\SEM 3\PRAKTIKUM\progdas\GUICPP_Kelxx\GUICPP_Kelxx\x64\Debug\GUICPP_Kelxx.vcxproj.GenerateResource.cache
+D:\UNDIP\SEM 3\PRAKTIKUM\progdas\GUICPP_Kelxx\GUICPP_Kelxx\x64\Debug\GUICPPKelxx.WelcomeForm.resources
